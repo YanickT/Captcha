@@ -16,6 +16,10 @@ ord_dict = {chr(ord('a') + i): i for i in range(26)}
 
 
 def main():
+    """
+    Train and test network.
+    Uses the data in the train_data folder.
+    """
     # load data
     data = os.listdir(TRAINPATH)
     random.shuffle(data)
