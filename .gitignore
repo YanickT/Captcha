@@ -1,0 +1,9 @@
+# Excercise related stuff
+analysis.py
+nn_debug.py
+webcrawler.py
+helpers
+
+# pycharm related stuff
+venv
+.idea
