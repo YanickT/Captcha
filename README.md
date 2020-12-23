@@ -44,3 +44,6 @@ This might be because of the different analysis methods.
 For Tesseract, the image was only processed with the 'totalize' function, 
 while for the neural network it was split into its individual letters. 
 
+At last I want to specify why I have not used any convolutional layers. 
+The answer is as simple as pragmatic: "it was not necessary for the task to be solved".
+
