@@ -46,4 +46,4 @@ while for the neural network it was split into its individual letters.
 
 At last I want to specify why I have not used any convolutional layers. 
 The answer is as simple as pragmatic: "it was not necessary for the task to be solved".
-
+Since all letters will be placed at the same pixels (with very short translation) it can do its job without convolutional layers.
