@@ -32,7 +32,7 @@ For this purpose, 50 data sets were randomly selected from the training data.
 The network was trained with the remaining ones and then the number of correctly answered captchas was determined.
 This was repeated 30 times with random sets of test and thus training data.
 On average were (69.1 ± 8.3) % of the captchas identified correctly.
-The average time for an identification was (92.8 ± 4.9) ms. 
+The main advantage of the network was its hight classification speed compared to Tesseract.
 
 Unfortunately, is an afterward comparison with Tesseract not possible.
 Due to the automatic selection of training data would Tesseract, consequently, identify all data correctly. 
